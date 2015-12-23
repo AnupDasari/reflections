@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    it was helpful to directly find the errors
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    it would help a lot
+
+What do you think are the pros and cons of manually choosing when to create a
+commight using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+ using git
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+its good
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+to maintain concurrent access
+
+How might using version control make you more confident to make changes that could break something?
+
+my Answer
+
+Now that you have your workspace set up, what do you want to try using Git for?
+my answer
