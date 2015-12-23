@@ -17,3 +17,7 @@ Helps to check my project structure
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 combine selected branches. to visualize and understand how changes happened
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+helps user to decide between the conflicts
